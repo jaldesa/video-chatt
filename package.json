@@ -1,5 +1,5 @@
 {
-	"name": "ionic-video-chat-server",
+	"name": "video-chat-server",
 	"version": "1.0.2",
 	"description": "Server for Ionic Video Chat",
 	"main": "server.js",
