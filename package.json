@@ -2,10 +2,6 @@
 	"name": "ionic-video-chat-server",
 	"version": "1.0.2",
 	"description": "Server for Ionic Video Chat",
-	"engines": {
-        "node": "6.11.0",
-		"npm": "3.10.10"
-	}
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
